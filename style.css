@@ -172,7 +172,7 @@ body{
     /* ------------------------------------------------------------------------------------------ */
     /* estilizado del perfil */
     & #profile{
-        width: 100%;
+        
         display: grid;
         justify-content: center;
         box-sizing: border-box;
