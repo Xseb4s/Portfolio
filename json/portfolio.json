@@ -22,5 +22,23 @@
         "urlImg":"satic.webp",
         "url":"https://satic.cali.gov.co/satic",
         "desc":"I contributed significantly to the development of the landing page for SATIC, providing creativity and technical skills."
-    }
+    },
+    {
+        "title":"Bank IA",
+        "urlImg":"bankia.webp",
+        "url":"https://github.com/Xseb4s/frontend-bankia",
+        "desc":"I developed a simple web application for credit requests using Laravel and React. I implemented a web service to efficiently manage the requests. The application allows users to submit and manage credit requests quickly and securely."
+    },
+    {
+        "title":"Café Delicia",
+        "urlImg":"cafe.webp",
+        "url":"https://cafe-delicia.vercel.app",
+        "desc":"I created a landing page for Café Delicia, a fictional café, using TypeScript and Tailwind CSS. Inspired by the authenticity and warmth of the Cali brand, I designed a welcoming experience. Highlighting the selection of local coffees and delicious dishes, the page reflects Café Delicia's commitment to customer satisfaction and well-being. The use of TypeScript allowed me to write more secure and maintainable code, while Tailwind CSS made it easy to create an attractive and responsive design."
+    },
+    {
+        "title":"MEGATECH landing page",
+        "urlImg":"megatech.webp",
+        "url":"https://xseb4s.github.io/megatech/",
+        "desc":"Megatech's ReactJS-powered landing page showcases the company as an innovative tech solutions leader. It highlights services like custom software development and IT infrastructure solutions, emphasizing values such as integrity and innovation. The contact form enables easy connection for inquiries or service requests, reflecting Megatech's commitment to excellence."
+    }    
 ]

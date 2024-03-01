@@ -19,8 +19,14 @@
     },
     {
         "title":"Freelance",
+        "year":"19-02-2024 - 26-02-2024",
+        "desc":"The Megatech landing page, developed using ReactJS, presents the company as a leader in innovative technological solutions. It highlights services such as custom software development, technology consulting, and IT infrastructure solutions. The page focuses on values like integrity, collaboration, and innovation, backed by testimonials from satisfied customers. The contact form allows visitors to easily connect for more information or to request services. An intuitive and attractive page that reflects Megatech's commitment to excellence in technology.",
+        "role":"Frontend Developer"
+    },
+    {
+        "title":"Freelance",
         "year":"31/10/2023 - Present",
         "desc":"Currently, I'm the Project Manager of the development team at Nostalhit, a music distributor. In this role, I lead and manage projects, ensuring the efficient execution of the development team to achieve the company's objectives in the music industry.",
         "role":"Project Manager"
-    }
+    }    
 ]
